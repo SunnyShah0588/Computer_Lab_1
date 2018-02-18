@@ -1,0 +1,4 @@
+t1 = a * b
+t2 = x + y
+x = a * b
+a = x + y
